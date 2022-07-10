@@ -1,2 +1,4 @@
 [build]
-  command = "node server"
+  command = "npm i"
+  comnmand = "node server"
+  
